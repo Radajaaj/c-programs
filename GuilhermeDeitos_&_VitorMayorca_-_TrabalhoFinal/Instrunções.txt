@@ -1,0 +1,25 @@
+(O programa que deve ser compilado é o 'main.cpp'. Os arquivos '*.h' devem estar na mesma pasta)
+
+Esse programa usa arrays dinâmicos da biblioteca <vector> para a criação de objetos em tempo real.
+    Cada objeto da classe empresa também possui 4 vetores, que armazenam o endereço dos seus
+    respectivos funcionários, gerentes, estagiários e clientes.
+
+O usuário é capaz de criar quantos objetos ele quiser, já que o array de objetos não é criado de maneira
+estática
+
+No final do arquivo 'classes.h', dentro da função 'inicial()', são criadas algumas
+pessoas genéricas, elas servem para testar as funções 1, 3 e 5
+    Mas o usuário também pode criar as suas prórpias pessoas, para rodar os testes.
+
+No menu inicial, as opções 5 e 6 requerem uma senha para serem usadas. O intuito é que a senha de 
+qualquer gerente seja o suficiente.
+    O usuário pode dar uma senha a um gerente customizado dentro da opção:
+    "Adicionar / Alterar funcionarios -> Gerente -> Alterar -> Alterar senha"
+
+Dentro da opção 5, o usuário pode obter todas as informações de uma impresa, incluindo:
+    lista de funcionários; lista de clientes; folha de pagamento dos funcionários.
+    
+A função para adicionar funcionários a uma empresa está no arquivo 'empresas.h', na função  
+'alteraempresa()', e dentro do 'case 5' do switch case.
+
+
