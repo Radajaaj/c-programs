@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1677635375 source:d:\downloads\unioeste\algoritmos\c\worplayproject\wordplay\wordplayf.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"HWordPlayH.h"
+
+1677635336 d:\downloads\unioeste\algoritmos\c\worplayproject\wordplay\hwordplayh.h
+

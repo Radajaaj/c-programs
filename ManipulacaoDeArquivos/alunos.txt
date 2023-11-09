@@ -1,0 +1,12 @@
+Aluno: Vitor
+Nota 1: 100.00	Nota 2: 50.00	Media: 75.00
+APROVADO
+
+Aluno: Joao
+Nota 1: 100.00	Nota 2: 100.00	Media: 100.00
+APROVADO
+
+Aluno: Jotge
+Nota 1: 10.00	Nota 2: 90.00	Media: 50.00
+REPROVADO
+
